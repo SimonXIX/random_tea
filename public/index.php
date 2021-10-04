@@ -14,7 +14,10 @@ include '../tea.php';
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>What kind of tea today?</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
